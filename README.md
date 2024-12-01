@@ -1,9 +1,9 @@
 ## Скриншоты
 
 
-![image](https://github.com/wwq69/YandexMusic---theme/blob/main/Annotation%202024-11-30%20211917.png)
+![image](https://github.com/wwq69/YandexMusic---theme/blob/screens/3.gif)
 ## 
-![image](https://github.com/wwq69/YandexMusic---theme/blob/main/Annotation%202024-11-30%20220848.png)
+![image](https://github.com/wwq69/YandexMusic---theme/blob/screens/5.png)
 ##
 
 ### Powered by
@@ -30,4 +30,3 @@
 4. После установки запускаем программу и нажимаем на кнопку «Директория со стилями», кидаете туда ПАПКУ С ТЕМОЙ.
 5. И выберете тему в приложении мода.
 6. Всё!
-
