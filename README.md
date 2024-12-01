@@ -1,9 +1,9 @@
 ## Скриншоты
 
 
-![image](https://github.com/wwq69/YandexMusic---theme/blob/main/Annotation%202024-11-30%20211917.png)
+![image](https://github.com/wwq69/YandexMusic---theme/blob/screens/3.gif)
 ## 
-![image](https://github.com/wwq69/YandexMusic---theme/blob/main/Annotation%202024-11-30%20220848.png)
+![image](https://github.com/wwq69/YandexMusic---theme/blob/screens/5.png)
 ##
 
 ### Powered by
