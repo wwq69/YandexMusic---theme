@@ -1,0 +1,9 @@
+{
+    "image": "image.jpg",
+    "name": "villenure theme",
+    "author": "villenure",
+    "description": "A simple theme",
+    "version": "1.2",
+    "css": "style.css",
+    "script": "script.js"
+}
