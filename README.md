@@ -3,7 +3,7 @@
 
 ![image](https://github.com/wwq69/YandexMusic---theme/blob/screens/3.gif)
 ## 
-![image](https://github.com/wwq69/YandexMusic---theme/blob/screens/5.png)
+![image](https://github.com/villenure/YandexMusic---theme/blob/screens/Annotation%202024-12-02%20195303.png)
 ##
 
 ### Powered by
